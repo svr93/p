@@ -1,0 +1,10 @@
+'use strict';
+
+const OLD_PATH = 'system/views/index.html';
+const NEW_PATH = 'base-theme/views/index.html';
+
+angular.module('mean.base-theme')
+  .config(['$viewPathProvider', $viewPathProvider => {
+
+  $viewPathProvider.override(OLD_PATH, NEW_PATH);
+}]);
