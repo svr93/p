@@ -1,9 +1,7 @@
 'use strict';
 
-class baseThemeController {
-
-  constructor() {}
-}
-
 angular.module('mean.base-theme')
-  .controller('BaseThemeController', baseThemeController);
+  .controller('BaseThemeController', class {
+
+    constructor() {}
+  });
