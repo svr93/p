@@ -72,3 +72,9 @@ modules/views/
 # vim Files
 # --------------------
 *.swp
+
+# --------------------
+# compiled files (from .es7)
+# --------------------
+/**/*-compiled.js
+/**/*-compiled.js.map
