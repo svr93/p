@@ -2,9 +2,10 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/packages/core/system/public/controllers/a-compiled.js" />
-        <item url="file://$PROJECT_DIR$/packages/core/system/public/controllers/a.js" />
-        <item url="file://$PROJECT_DIR$/packages/core/system/public/controllers/nnn.js" />
+        <item url="file://$PROJECT_DIR$/packages/custom/base-theme/public/controllers/baseTheme-compiled.js" />
+        <item url="file://$PROJECT_DIR$/packages/custom/base-theme/public/config/viewPathProvider-compiled.js" />
+        <item url="file://$PROJECT_DIR$/packages/custom/base-theme/public/controllers/baseTheme.js" />
+        <item url="file://$PROJECT_DIR$/packages/custom/base-theme/public/config/viewPathProvider.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -13,6 +14,12 @@
       <root url="file://$PROJECT_DIR$/packages/core/system/public/controllers/a-compiled.js" />
       <root url="file://$PROJECT_DIR$/packages/core/system/public/controllers/a.js" />
       <root url="file://$PROJECT_DIR$/packages/core/system/public/controllers/nnn.js" />
+      <root url="file://$PROJECT_DIR$/packages/core/system/public/controllers/nnn.js" />
+      <root url="file://$PROJECT_DIR$/packages/custom/base-theme/public/controllers/baseTheme.js" />
+      <root url="file://$PROJECT_DIR$/packages/custom/base-theme/public/controllers/baseTheme-compiled.js" />
+      <root url="file://$PROJECT_DIR$/packages/custom/base-theme/public/config/viewPathProvider-compiled.js" />
+      <root url="file://$PROJECT_DIR$/packages/custom/base-theme/public/controllers/baseTheme.js" />
+      <root url="file://$PROJECT_DIR$/packages/custom/base-theme/public/config/viewPathProvider.js" />
     </CLASSES>
     <SOURCES />
   </library>
